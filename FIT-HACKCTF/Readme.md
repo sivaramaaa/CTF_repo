@@ -4,13 +4,7 @@
      the password will get cracked in minutes :)
 # 2) Omikuji # 200 rev
      we are given a jar file to reverse with so , 
-     first extract jar file using 
-      ```
-      jar xf Omikuji.jar 
-      ```
-      then to reverse the class files 
-      ```
-      jad file.class
-      
-      ```
+     first extract jar file using      " jar xf Omikuji.jar"
+     then to reverse the class files   " jad file.class "
+     
   
